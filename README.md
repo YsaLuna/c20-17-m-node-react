@@ -18,6 +18,7 @@ Caracteristicas Esenciales
 #### Tecnologías Backend
 - NodeJs
 - Express
+- Mongodb
 - Mongoose 
   
 #### Tecnologías Frontend
