@@ -12,7 +12,7 @@ Caracteristicas Esenciales
 ● Alertas de seguridad y transacciones.
 
 ### Colaboradores
-- **Fernando Martínez** - Programador Backend: linkedin.com/in/fernandoh-martinez
+- **Fernando Martínez** - Programador Backend: www.linkedin.com/in/fernandoh-martinez
 - **nombre del colaborador** - Programador Backend: www.linkedin.com/in/tucuenta de linkedin/
 - **nombre del colaborador** - Programadora Frontend: www.linkedin.com/in/tucuenta de linkedin/
 #### Tecnologías Backend
